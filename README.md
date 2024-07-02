@@ -17,6 +17,8 @@
 
 <br/>  
 
+## About Me 
+<p>Hi! I am a Mobile Application and Web Development enthusiast and I believe in learning through practical Implementation of knowledge!! This GitHub Account will act as a mirror of my knowledge as it encompasses all the projects through which I have gained my insights on the topics. </p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -48,18 +50,18 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="75" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a> &nbsp  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>   &nbsp  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="75" /></a>   &nbsp  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>   &nbsp  
 </div>
 
 </td>
 </tr></table>  
 
 <br/>  
-### Connect with me  
 
+## Connect with me    
 <div align="center">
 
   
@@ -77,3 +79,11 @@
 
 
 <br/> 
+
+
+## Github Stats  
+<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SMogeraya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="SMogeraya" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SMogeraya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
