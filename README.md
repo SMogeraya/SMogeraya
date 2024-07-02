@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sahana M, an aspiring Mobile Application and Web Developer  🚀</div>  
+### <div>I'm Sahana M, an aspiring Mobile Application and Web Developer  🚀</div>  
   
 
 - 🔭 I’m currently pursuing a Bachelor's Degree in Computer Applications  
@@ -58,7 +58,7 @@
 </tr></table>  
 
 <br/>  
-  ## Connect with me  
+### Connect with me  
 
 <div align="center">
 
